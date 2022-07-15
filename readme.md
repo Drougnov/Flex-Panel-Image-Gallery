@@ -18,7 +18,7 @@ This project teaches(especially) you how to:
 
 ## Live site URL
 
-<https://drougnov.github.io/image-gallery/>
+<https://drougnov.github.io/Flex-Panel-Image-Gallery/>
 
 ## Built with
 
